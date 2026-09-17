@@ -1,0 +1,2 @@
+[console_scripts]
+predskazator = predskazator.core:main

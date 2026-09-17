@@ -6,4 +6,5 @@ src/predskazator/main.py
 src/predskazator.egg-info/PKG-INFO
 src/predskazator.egg-info/SOURCES.txt
 src/predskazator.egg-info/dependency_links.txt
+src/predskazator.egg-info/entry_points.txt
 src/predskazator.egg-info/top_level.txt
