@@ -2,15 +2,16 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
-
 [project]
 name = "predskazator"
 version = "0.1.0"
 description = "Шуточные предсказания на день"
 readme = "README.md"
 requires-python = ">=3.8"
-authors = "Шевырова Аглая Николаевна"
-license = "MIT"
+authors = [
+    { name = "Шевырова Аглая Николаевна" }
+]
+license = { text = "MIT" }
 
 [project.urls]
 Homepage = "https://github.com/Aglaya-Shevyrova/new_she_hse"
