@@ -13,3 +13,7 @@ def predict() -> str:
         return "рядом предатель ඞ ඞ ඞ ඞ ඞ ඞ ඞ"
     else:
         return "погладь сегодня кота ᓚᘏᗢ"
+
+
+def main():
+    print(predict())

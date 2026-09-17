@@ -15,3 +15,6 @@ license = { text = "MIT" }
 
 [project.urls]
 Homepage = "https://github.com/Aglaya-Shevyrova/new_she_hse"
+
+[project.scripts]
+predskazator = "predskazator.core:main"
